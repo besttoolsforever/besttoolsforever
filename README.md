@@ -7,7 +7,7 @@ EN_EN
 
 💞️ I’m looking to collaborate on projects - I haven't been invited to collaborate yet, but I always invite people to collaborate on my ideas and projects.
 
-📫 How to reach me: contato@wdv.com.br
+📫 How to reach me: eduardowdv@gmail.com
 
 😄 Pronouns: he/him
 
@@ -23,7 +23,7 @@ ES_ES
 
 💞️ Busco colaborar en proyectos - aún no me han invitado a colaborar, pero siempre invito a las personas a colaborar en mis ideas y proyectos.
 
-📫 Cómo contactarme: contato@wdv.com.br
+📫 Cómo contactarme: eduardowdv@gmail.com
 
 😄 Pronombres: él
 
@@ -41,7 +41,7 @@ PT_BR
 
 💞️ Estou buscando colaborar em projetos - ainda não fui convidado para colaborar, mas sempre convido as pessoas a colaborarem em minhas ideias e projetos.
 
-📫 Como me encontrar: contato@wdv.com.br
+📫 Como me encontrar: eduardowdv@gmail.com
 
 😄 Pronomes: ele
 
