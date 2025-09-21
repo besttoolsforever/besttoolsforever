@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Luiz Eduardo
-📌 Minha jornada no desenvolvimento começou em 2009, com ajustes em plugins e templates em sistemas CMS (como joomla e wordpress) — meu primeiro contato direto com código, ainda antes do curso técnico e muito antes da popularização das IAs.
+📌 Minha jornada no desenvolvimento começou em 2009, com ajustes em plugins e templates em sistemas CMS (como joomla e wordpress) — meu primeiro contato direto com código, ainda antes do curso técnico.
 
 🔧 Durante um trabalho remoto em 2024, percebi a necessidade de automatizar tarefas repetitivas e criei utilitários em JavaScript e HTML para limpeza e padronização de textos (capitalização, caixa alta/baixa), além de um timer simples para gestão de tempo (e também para não deixar meu almoço queimar).
 
@@ -42,7 +42,7 @@ Ecossistema WordPress: Customização de Temas e Plugins (PHP, CSS)
 
 🌐 English Version 🇺🇸
 👋 Hello, I'm Luiz Eduardo
-📌 My development journey began in 2009 by tweaking plugins and templates for CMS platforms (like Joomla and WordPress) — my first direct contact with code, long before any technical courses and well before the rise of AI.
+📌 My development journey began in 2009 by tweaking plugins and templates for CMS platforms (like Joomla and WordPress) — my first direct contact with code, long before any technical courses.
 
 🔧 During a remote work period in 2024, I recognized the need to automate repetitive tasks. I created JavaScript and HTML utilities for text cleaning and standardization (capitalization, upper/lower case), along with a simple timer for time management (which also proved useful for not burning my lunch).
 
@@ -87,7 +87,7 @@ WordPress Ecosystem: Theme & Plugin Customization (PHP, CSS)
 
 🌐 Versión en Español 🇪🇸
 👋 Hola, soy Luiz Eduardo
-📌 Mi trayectoria en el desarrollo comenzó en 2009, realizando ajustes en plugins y plantillas de sistemas CMS (como Joomla y WordPress) — mi primer contacto directo con el código, mucho antes de cualquier curso técnico y de la popularización de las IAs.
+📌 Mi trayectoria en el desarrollo comenzó en 2009, realizando ajustes en plugins y plantillas de sistemas CMS (como Joomla y WordPress) — mi primer contacto directo con el código, mucho antes de cualquier curso técnico.
 
 🔧 Durante un período de trabajo remoto en 2024, identifiqué la necesidad de automatizar tareas repetitivas y creé utilidades en JavaScript y HTML para la limpieza y estandarización de textos (capitalización, mayúsculas/minúsculas), además de un sencillo temporizador para la gestión del tiempo (que también resultó útil para no quemar el almuerzo).
 
